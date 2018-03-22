@@ -1,0 +1,10 @@
+monaco
+------
+
+A silly Chrome extension to set `Monaco' as the default font for monospace text.
+Subtext: I don't like `Menlo'.
+
+NOTE
+	The packed extension (`.crx') is under the `packed' directory.
+
+
