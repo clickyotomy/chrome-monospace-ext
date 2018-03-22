@@ -1,5 +1,5 @@
-monaco
-------
+chrome-monospace-ext
+--------------------
 
 A silly Chrome extension to set `Monaco' as the default font for monospace text.
 Subtext: I don't like `Menlo'.
